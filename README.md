@@ -5,7 +5,7 @@
 
 ## 🌐 Live Demo
 
-Visit the app: **[https://YOUR_USERNAME.github.io/Mind-Space/](https://YOUR_USERNAME.github.io/Mind-Space/)**
+Visit the app: **[Link](https://ketanjain113.github.io/Mind-Space/)**
 
 ## ✨ Features
 
@@ -149,4 +149,5 @@ For questions or issues:
 **Made with ❤️ for student mental wellness**
 
 </div>
+
 
