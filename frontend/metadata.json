@@ -1,0 +1,7 @@
+{
+  "name": "MindSpace Campus V2",
+  "description": "A high-vibrancy, 3D mental well-being platform for the modern student. AI-driven sanctuary with zero-stigma protocols.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
