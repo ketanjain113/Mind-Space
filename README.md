@@ -5,7 +5,7 @@
 
 ## 🌐 Live Demo
 
-Visit the app: **[Link](https://ketanjain113.github.io/Mind-Space/)**
+Visit the app: **[Link](https://mindspaceme.netlify.app/)**
 
 ## ✨ Features
 
@@ -149,5 +149,6 @@ For questions or issues:
 **Made with ❤️ for student mental wellness**
 
 </div>
+
 
 
